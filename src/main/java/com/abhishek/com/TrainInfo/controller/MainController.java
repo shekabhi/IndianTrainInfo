@@ -19,8 +19,8 @@ import java.util.Date;
 @Controller
 public class MainController {
 
-    
-    String apikey = /* Enter Your API Key */ ;
+    /* Enter Your API Key */
+    String apikey = "mu7yjmnc4a" ;
 
     @Autowired
     DaoLiveTrainStatus daoLiveTrainStatus ;
